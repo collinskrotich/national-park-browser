@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "nationalparkbrowsere8897330": {}
+      },
+      "storage": {
+        "nationalparkbrowser07": {}
+      },
+      "api": {
+        "nationalparkbrowser": {}
       }
     }
   }
