@@ -4,7 +4,7 @@ type S3Object {
   key: String!
 }
 
-type Park@model {
+type Park {
   id: ID!
   name: String!
   image: S3Object
