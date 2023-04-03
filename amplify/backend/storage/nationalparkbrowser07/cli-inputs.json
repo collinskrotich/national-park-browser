@@ -1,0 +1,16 @@
+{
+  "resourceName": "nationalparkbrowser07",
+  "policyUUID": "10ce7333",
+  "bucketName": "nationalparkbrowser1a8d593633724fa1bd28486d88ac",
+  "storageAccess": "authAndGuest",
+  "guestAccess": [
+    "READ"
+  ],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
